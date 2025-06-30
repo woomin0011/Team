@@ -8,3 +8,4 @@ hello cho
 >>>>>>> Stashed changes
 
 5line
+min
