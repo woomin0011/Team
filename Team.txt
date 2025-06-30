@@ -1,5 +1,10 @@
 Hello
+<<<<<<< Updated upstream
 HelloCHO!!!!!
 3line
+=======
+hello cho
+
+>>>>>>> Stashed changes
 
 5line
